@@ -1,0 +1,4 @@
+Welcome to Git.
+
+This is my first Git repository.
+I am learning Git version control.

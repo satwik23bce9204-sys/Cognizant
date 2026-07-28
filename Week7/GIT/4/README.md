@@ -1,0 +1,13 @@
+# GitDemo
+
+This repository demonstrates basic Git operations.
+
+Commands used:
+- git init
+- git status
+- git add
+- git commit
+- git branch
+- git checkout
+- git merge
+- git push

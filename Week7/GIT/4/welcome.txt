@@ -1,0 +1,2 @@
+Welcome to Git.
+This repository is created for Git hands-on practice.
